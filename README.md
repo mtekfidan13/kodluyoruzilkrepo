@@ -1,3 +1,4 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
-[label](https://www.google.com/imgres?imgurl%3Dhttps%3A%2F%2Favatars.githubusercontent.com%2Fu%2F30476529%3Fs%3D280%26v%3D4%26tbnid%3Ds_9DjRe3FgTwwM%26vet%3D12ahUKEwiE-a3E_t7-AhXVwyoKHWjYAcEQMygAegUIARCqAQ..i%26imgrefurl%3Dhttps%3A%2F%2Fgithub.com%2FKodluyoruz%26docid%3DKpcO2VeDc0YBiM%26w%3D280%26h%3D280%26q%3Dkodluyoruz%26ved%3D2ahUKEwiE-a3E_t7-AhXVwyoKHWjYAcEQMygAegUIARCqAQ)
+
+![Alt text](indir.png)
